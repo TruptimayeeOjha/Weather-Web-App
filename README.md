@@ -1,9 +1,21 @@
-# Weather-Web-App
-Complete weather web app using ejs , nodeJs, expressJs and CSS . All the data has been fetched from Open Weather API.
-## Some Screenshots of the website:
+# 🌤 Weather Web App
 
-<img width="1437" alt="Screenshot 2023-08-20 at 12 34 01 AM" src="https://github.com/HSG15/WeatherWebApp/assets/97149893/f2ba78b1-8f5d-42ad-bab9-34f5bda9db34">
+A simple and interactive weather web application that allows users to check real-time weather conditions using the **OpenWeather API**.
 
-<img width="1434" alt="Weather Page" src="https://github.com/HSG15/WeatherWebApp/assets/97149893/6071028a-3a18-45de-8471-266d285f9628">
+## 🚀 Features
+- 🌍 **City-Based Weather Search** – Get weather details for any city worldwide.
+- 🌅 **Sunrise & Sunset Timing** – Displays accurate sunrise and sunset times.
+- 🌬 **Wind Speed & Visibility** – Provides real-time wind speed and visibility status.
+- 💧 **Humidity & Temperature** – Shows the current humidity and temperature conditions.
+- ⚠ **Error Handling** – Alerts users if a city is not found or input is invalid.
 
-# Weather_Web_App
+## 🛠 Tech Stack
+- **Frontend**: EJS, CSS
+- **Backend**: Node.js, Express.js
+- **API**: OpenWeather API
+
+➡️ **Below are some screenshots attached of this project showcasing its functionality.**  
+
+
+
+
