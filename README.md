@@ -6,3 +6,4 @@ Complete weather web app using ejs , nodeJs, expressJs and CSS . All the data ha
 
 <img width="1434" alt="Weather Page" src="https://github.com/HSG15/WeatherWebApp/assets/97149893/6071028a-3a18-45de-8471-266d285f9628">
 
+# Weather_Web_App
